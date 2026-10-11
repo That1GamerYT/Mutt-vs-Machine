@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"explosion_medium",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.2125397,
+  "exportDir":"",
+  "name":"explosion_medium",
+  "parent":{
+    "name":"Mutt v. Machine",
+    "path":"Mutt v. Machine.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"explosion_medium.wav",
+  "volume":1.0,
+}

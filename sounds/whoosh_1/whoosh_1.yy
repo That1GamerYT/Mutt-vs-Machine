@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"whoosh_1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.32507935,
+  "exportDir":"",
+  "name":"whoosh_1",
+  "parent":{
+    "name":"Mutt v. Machine",
+    "path":"Mutt v. Machine.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"whoosh_1.wav",
+  "volume":1.0,
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"coin_2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.3306576,
+  "exportDir":"",
+  "name":"coin_2",
+  "parent":{
+    "name":"Mutt v. Machine",
+    "path":"Mutt v. Machine.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"coin_2.wav",
+  "volume":1.0,
+}

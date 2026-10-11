@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"power_up",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.638322,
+  "exportDir":"",
+  "name":"power_up",
+  "parent":{
+    "name":"Mutt v. Machine",
+    "path":"Mutt v. Machine.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"power_up.wav",
+  "volume":1.0,
+}
